@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <default sync-j="2"/>
+	
+    <remote fetch="https://github.com/aiguo-zhao" name="aiguo-zhao"/>
+ 	<project remote="aiguo-zhao" revision="master" name="test" path="test"/>
+	<project remote="aiguo-zhao" revision="master" name="IMX6ULL_KERNEL" path="test/IMX6ULL_KERNEL"/>
+
+</manifest>
